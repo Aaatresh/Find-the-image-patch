@@ -7,5 +7,7 @@ Find an image patch inside an image without neural networks!!
 ## Finding wally
 <br>
 Image Source: https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/140639081/original/bb5ccd971112ef126c1b9a915e6e26f1935e8c41/find-wally-or-waldo-for-you.png
+
 <br>
+
 This uses the concept of correlation. To decrease the computational complexity and time consumed, fourier transforms have been used.
